@@ -1,5 +1,5 @@
-I'm a predoctoral researcher at Microsoft Research New England in the Economics and Computation group. In fall 2026, I'm starting a PhD program with Berkeley Haas's Real Estate group.
+I'm a PhD student in the Real Estate group at UC Berkeley's Haas School of Business. I'm interested in the political economy of housing and transportation policy in cities, as well as its spatial implications.
 
-I graduated from Yale in 2022 with a degree in environmental engineering. I'm interested in the economic dynamics of urban settings, including housing markets and transportation networks, and their political determinants.
+I graduated from Yale in 2022 with a degree in environmental engineering. Previously, I worked at Microsoft Research in the Economics and Computation group as a predoc.
 
 You can email me at willw at berkeley dot edu. 
